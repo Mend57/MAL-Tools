@@ -1,4 +1,4 @@
-# MAL Randomizer
+# MAL Tools
 
 Um aplicativo web que randomiza animes da sua lista "Plan to Watch" do MyAnimeList.
 
